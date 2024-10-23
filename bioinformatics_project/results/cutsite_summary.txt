@@ -1,0 +1,7 @@
+Total cut site pairs found: 2218
+First 5 cut site pairs:
+Pair 1: (7743, 90968)
+Pair 2: (7743, 95267)
+Pair 3: (7743, 103291)
+Pair 4: (7743, 104345)
+Pair 5: (7743, 105207)
